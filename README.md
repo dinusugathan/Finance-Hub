@@ -1,4 +1,4 @@
-# Expense Manager
+# Finance Hub
 
 An AI-powered, modern web application for companies to effortlessly track, extract, and manage their expenses. Built with Next.js, Prisma, and the Google Gemini API.
 

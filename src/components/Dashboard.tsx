@@ -17,7 +17,7 @@ export default function Dashboard({ stats, recentExpenses, monthlyTrend }: { sta
     <div style={{ padding: '40px 20px', maxWidth: '1200px', margin: '0 auto' }}>
       <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '40px' }}>
         <div>
-          <h1 style={{ fontSize: '2.5rem', fontWeight: 700, letterSpacing: '-1px' }}>Expense Manager</h1>
+          <h1 style={{ fontSize: '2.5rem', fontWeight: 700, letterSpacing: '-1px' }}>Finance Hub</h1>
           <p style={{ color: 'var(--text-secondary)' }}>Track and manage your company expenses effortlessly.</p>
         </div>
         <button className="btn" onClick={() => setIsModalOpen(true)} style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '1rem', padding: '12px 24px' }}>
