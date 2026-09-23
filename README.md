@@ -3,6 +3,10 @@
 An AI-powered, modern web application for companies to effortlessly track, extract, and manage their expenses. Built with Next.js, Prisma, and the Google Gemini API.
 
 ![Dashboard Screenshot](./public/screenshot.jpg)
+*Dashboard Overview*
+
+![Upload Invoice Screenshot](./public/upload_screenshot.jpg)
+*Invoice Upload & Extraction Modal*
 
 ## Features
 
